@@ -10,7 +10,7 @@
 
 .slider-wrapper {
 	position: relative;
-	max-width: 48rem;
+	max-width: 76rem;
 	margin: 0 auto;
 }
 
@@ -49,4 +49,8 @@
 	background-color: #fff;
 	opacity: 75%;
 	transition: opacity ease 250ms;
+}
+
+.slider-nav a:hover {
+	opacity: 100%;
 }
